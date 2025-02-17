@@ -1,4 +1,5 @@
 # Notes-Application
 MERN stack application
 <br>
-![Click here](path-to-image/image.png)
+<br>
+![Click here](https://github.com/Annu1809/Notes-Application/blob/main/Image%20.jpeg)

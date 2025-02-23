@@ -12,7 +12,7 @@ This is a **full-featured Notes Application** built using **React.js** that allo
 ## **Tech Stack** 🚀  
 - **Frontend:** React.js ⚛️  
 - **State Management:** React Hooks  
-- **Styling:** CSS / Reactstrap (if used)  
+- **Styling:** Tailwind CSS  
 - **Image Hosting:** Cloudinary ☁️  
 - **Backend:** Node.js  
 
@@ -25,4 +25,5 @@ This is a **full-featured Notes Application** built using **React.js** that allo
 
 
 <br>
-![Click here](https://github.com/Annu1809/Project-UI-Gallery/blob/main/Noes-Application.jpeg)
+![Click here](https://raw.githubusercontent.com/Annu1809/Project-UI-Gallery/main/Noes-Application.jpeg)
+

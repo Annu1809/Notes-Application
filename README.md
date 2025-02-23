@@ -25,5 +25,6 @@ This is a **full-featured Notes Application** built using **React.js** that allo
 
 
 <br>
-![Click here](https://raw.githubusercontent.com/Annu1809/Project-UI-Gallery/main/Noes-Application.jpeg)
+<img src="https://raw.githubusercontent.com/Annu1809/Project-UI-Gallery/main/Noes-Application.jpeg" alt="Notes Application" width="600">
+
 

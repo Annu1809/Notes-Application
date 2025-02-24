@@ -1,13 +1,14 @@
 # **Notes Application with Cloudinary Integration** 📝☁️  
 
-This is a **full-featured Notes Application** built using **React.js** that allows users to create, update, delete, and store notes efficiently. The application also integrates **Cloudinary** to handle image uploads, enabling users to attach images to their notes for a richer experience.  
+This is a full-stack Notes Application built using React.js, Node.js, Express, and MongoDB that allows users to create, update, delete, and store notes efficiently. The application also integrates Cloudinary to handle image uploads, enabling users to attach images to their notes for a richer experience.
 
 ## **Features** 🌟  
-✅ **Create, Read, Update & Delete (CRUD) Notes** – Easily manage your notes.  
-✅ **Image Uploads with Cloudinary** – Attach images to notes for better organization.  
-✅ **Real-Time Data Storage** – Notes are updated instantly.  
-✅ **User-Friendly UI** – Designed with an intuitive interface for a seamless experience.  
-✅ **Responsive Design** – Works across all devices.  
+✅ Full CRUD Functionality – Create, Read, Update & Delete notes.
+✅ Image Uploads with Cloudinary – Attach images to notes.
+✅ Secure Backend API – Built with Node.js and Express.
+✅ Database Storage – Notes and images are stored in MongoDB.
+✅ User Authentication (if implemented) – Secure login and access.
+✅ Responsive UI – Works on all devices.
 
 ## **Tech Stack** 🚀  
 - **Frontend:** React.js ⚛️  

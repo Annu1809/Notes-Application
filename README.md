@@ -7,7 +7,6 @@ This is a full-stack Notes Application built using React.js, Node.js, Express, a
 ✅ Image Uploads with Cloudinary – Attach images to notes.
 ✅ Secure Backend API – Built with Node.js and Express.
 ✅ Database Storage – Notes and images are stored in MongoDB.
-✅ User Authentication (if implemented) – Secure login and access.
 ✅ Responsive UI – Works on all devices.
 
 ## **Tech Stack** 🚀  
